@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 地方校友会平台",
+  "description": "地方校友会信息平台（微信小程序及Web管理后台交互式设计与代码生成器）",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
